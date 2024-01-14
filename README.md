@@ -14,7 +14,7 @@ Welcome to the ultimate Rock, Paper, Scissors experience!
 ### Steps
 
 Step 1:
-Clone or download this repository to your local machine.
+Clone or download this repository to your local machine or download the zip file.
 git clone https://github.com/nikolaristic89/RockPaperScissorsPython.git
    
 Step 2: 
@@ -25,11 +25,8 @@ macOS/Linux: Open Terminal
 Step 3: 
 Navigate to Your Project Directory
 Use the cd (change directory) command to navigate to the directory where your Python files (main.py, game.py, players.py, userinterface.py) are located. 
-For example:
-cd path/to/your/project
-Replace path/to/your/project with the actual path to the folder containing your Python files.
 
-Step 3: Run the Game
+Step 3: 
 Once you're in the correct directory, you can start the game by running main.py with Python. Type the following command:
 python main.py
 Or if you're using Python 3 specifically you might need to use:
@@ -46,4 +43,4 @@ Python Installation: Ensure that Python is installed on your system. You can che
 
 File Organization: Make sure all the related Python files are in the same directory and that the directory paths in your import statements are correct relative to the location from which you're running main.py.
 
-Permissions: In some cases, especially on Linux or macOS, you might need to make main.py executable by running chmod +x main.py in the terminal.
+Permissions: In some cases, especially on Linux, you might need to make main.py executable by running chmod +x main.py in the terminal.
