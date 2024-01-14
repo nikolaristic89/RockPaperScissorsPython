@@ -40,9 +40,9 @@ Follow the prompts to play the game.
 Additional step:
 Execute the unit tests 
 Type the following command:
-python test_game.py
+python test_program.py
 Or if you're using Python 3 specifically you might need to use:
-python3 test_game.py
+python3 test_program.py
 
 ## Additional Notes
 Python Installation: Ensure that Python is installed on your system. You can check this by running python --version or python3 --version in your terminal. If Python is not installed, you will need to download and install it from the official Python website.
