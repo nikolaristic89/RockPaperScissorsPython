@@ -14,7 +14,7 @@ Welcome to the ultimate Rock, Paper, Scissors experience!
 ### Steps
 
 Step 1:
-Clone or download this repository to your local machine or download the zip file.
+Clone or download this repository to your local machine or download the zip file. <br />
 git clone https://github.com/nikolaristic89/RockPaperScissorsPython.git
    
 Step 2: 
