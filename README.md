@@ -16,7 +16,7 @@ This repository contains a Python-based interactive game where players can compe
 
 Step 1:
 Clone or download this repository to your local machine.
-git clone https://github.com/risticnikola1/Rock-Paper-Scissors.git
+git clone https://github.com/nikolaristic89/RockPaperScissorsPython.git
    
 Step 2: 
 Open Terminal or Command Prompt
