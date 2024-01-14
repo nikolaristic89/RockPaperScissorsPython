@@ -3,7 +3,6 @@ Rock, Paper, Scissors
 ## Introduction
 
 Welcome to the ultimate Rock, Paper, Scissors experience! 
-This repository contains a Python-based interactive game where players can compete against a computer or watch a game between two computer players.
 
 ## Installation
 
