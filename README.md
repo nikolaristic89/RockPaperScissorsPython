@@ -34,9 +34,15 @@ python3 main.py
 This command tells Python to execute the code in main.py, which is the entry point to your game.
 
 Step 4: 
-Play the Game
 After running the command, your game should start, and you'll see the welcome message and instructions in your terminal. 
 Follow the prompts to play the game.
+
+Additional step:
+Execute the unit tests 
+Type the following command:
+python test_game.py
+Or if you're using Python 3 specifically you might need to use:
+python3 test_game.py
 
 ## Additional Notes
 Python Installation: Ensure that Python is installed on your system. You can check this by running python --version or python3 --version in your terminal. If Python is not installed, you will need to download and install it from the official Python website.
